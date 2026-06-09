@@ -1,4 +1,4 @@
-## Sweet Pony Town Game
+## Sweet Followers
 
 # |Never mess with the Real Mafioso and his goons / gangs|
 
