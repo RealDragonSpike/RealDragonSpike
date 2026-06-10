@@ -1,4 +1,7 @@
-## Never mess with the mafia boss and his gang / goons..
+## If your reading this, your all welcome to read my read.me 👀
+
+# Might be " Sleeping, Drawing, Afk, Semi-afk or Watching.
+
 
 
   ![Image-alt](https://github.com/RealMafioso/RealMafioso/blob/fcb2394ed0475232ff7869705fe24c6a7c5df39c/Screenshot%202026-06-05%20200415.png)
@@ -20,7 +23,7 @@
 
    
 
-# I feel no pain, can you say the same?..
+ 
 
 
 
