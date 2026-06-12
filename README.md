@@ -1,5 +1,7 @@
 ## If your reading this, your all welcome to read my read.me 
 
+# [|WARNING|: PLEASE DO NOT COPY MY SKIN IF IM AFK, SEMI-AFK, SLEEPING, DRAWING, LISTENING TO MUSIC OR WATCHING.]
+
 # Might be " Sleeping, Drawing, Afk, Semi-afk, Listening to music or Watching."
 
 
