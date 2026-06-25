@@ -11,6 +11,7 @@
    <small><b>"The Dragon King"</b></small>
  
  <p align="center">
+    
  <sub>The underline words are clickabled.</sub>
    </p>
    <br>
@@ -72,6 +73,7 @@
    <p>I rather avoid sex or heat shippers</p>
 details>
     <summary><inst>How to be friends with me?</inst></summary>
+    
    <p>Well if you want to be friends with me, you have to talk / whispering to me alot.</p>
    <p>I avoid talking / whispering under 12 years old.</p>
    <p>I like to talk / whisper alot even when im bored.</p>
