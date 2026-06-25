@@ -36,7 +36,7 @@
              <summary><ins>About Pony Town</ins></summary>
              <p>I allowed cuddles and piles when im with people. Also do not cover or copy my Spike cosplay, I will not allowed that.</p>
              <p>I may be afk or semi-afk but i may be online every year well sometimes.</p>
-              <p>Free to W2I, there's chances to see the message.</p>
+              <p>Free to W2I, there's chances that i might see the messages.</p>
  </div>
  </details>
 
@@ -46,6 +46,8 @@
          <summary><ins>Do not Befriend with me.</ins></summary>
          <p>Under 12 years old, I will not accept either be friends with under 12 years old.</p>
          <p>Above 18+ or 13+ i will accept it.</p>
+         <p>I avoid being friend request by under 12 years old.</p>
+         <p>Copying me or my friends is a dangerous decisions. I will block you for copying me either my friends.</p>
   
 
    </div>
