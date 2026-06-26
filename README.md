@@ -65,6 +65,7 @@
          <p>Whisper me if u want to talk either be friends with me. I'll even ask if ur above 18+ or under 12 years old.</p>
   
 
+
    </div>
    </details>
 
@@ -77,6 +78,7 @@
     <p>My hobbies are playing, watching, listening music and drawing.</p>
     <p>I do not like getting disturbed whenever im watching, drawing and playing.</p>
     <p>You are free to whisper me when im listening to music.</p>
+
 
 
    </div>
@@ -104,8 +106,13 @@
 
 <br> 
 
+
+
+
    </div>
    </details>
+
+ <br>
 
 
 
@@ -123,6 +130,8 @@
    <p>Be kind to my friends and random peoples.</p>
    <p>I'll think of my mind if your cool, awesome, good or bad. </p>
 
+
+
 </div>
  </details>
 
@@ -135,6 +144,8 @@
    <p>Shipping Spike with other canon and fanons may caused a  sex or heat shippers to appeared. Like shipping rarity x spike, etc, and more.</p>
    <p>I rather avoid sex or heat shippers whenever im afk or semi-afk.</p>
    <p>I not feel uncomfortable sitting with a sex or heat shippers.</p>
+
+
 
  </div>
  </details>
@@ -149,10 +160,12 @@
   <br> 
 
 
+
+
    </div>
    </details>
 
-
+ <br>
 
    <details>
    <summary><int>Animals I like</int></summary>
@@ -167,7 +180,7 @@
    </div>
    </details>
 
-
+ <br>
 
   <details>
   <summary><int>Favourite Shows</int></summary>
