@@ -197,7 +197,7 @@
 
 
 
-## ɴᴏᴛ ᴀʙʟᴇ ᴛᴏ ʀᴇᴀᴅ ᴏʀ ʀᴇsᴘᴏɴᴅ ʏᴏᴜʀ ᴍᴇssᴀɢᴇ. ɪғ ʏᴏᴜ ᴋᴇᴇᴘ ᴏɴ sᴘᴀᴍ ᴡʜɪsᴘᴇʀ..
+## ɴᴏᴛ ᴀʙʟᴇ ᴛᴏ ʀᴇᴀᴅ ᴏʀ ʀᴇsᴘᴏɴᴅ ʏᴏᴜʀ ᴍᴇssᴀɢᴇ. ɪғ ʏᴏᴜ ᴋᴇᴇᴘ ᴏɴ sᴘᴀᴍ ᴡʜɪsᴘᴇʀ...
 
 <div align="center">
 <img width="220" height="227" alt="Image" src="https://github.com/user-attachments/assets/ce2041ac-2087-4e3f-a7d8-dca8c74778c7" />
@@ -214,7 +214,7 @@
  
 
 
-## sʜᴇ ᴀʟᴡᴀʏs ɢᴏᴛ ᴍʏ sɪᴅᴇ. ᴛʜᴀɴᴋ ʏᴏᴜ, ᴛᴡɪʟɪɢʜᴛ. 
+## sʜᴇ ᴀʟᴡᴀʏs ɢᴏᴛ ᴍʏ sɪᴅᴇ. ᴀɴᴅ ɪ ɢᴏᴛ ʜᴇʀ ᴛᴏᴏ...
 
  <div align="center">
 <img width="222" height="325" alt="Image" src="https://github.com/user-attachments/assets/bbb10e4f-0ec7-4950-af85-5903ee7899ab" />
