@@ -57,8 +57,6 @@
 </details>
 <br>
 
-</p>
-
   <details>
  <summary><ins>❗ᴅᴏ ɴᴏᴛ ʙᴇғʀɪᴇɴᴅ❗</ins></summary>
      
@@ -75,8 +73,6 @@
   </div>
 </details>
 <br>
-
- </p>
  
  <details>
   <summary><inst>ʜᴏᴡ ᴛᴏ ʙᴇ ғʀɪᴇɴᴅs ᴡɪᴛʜ ᴍᴇ❔</inst></summary>
