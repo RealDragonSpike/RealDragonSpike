@@ -142,7 +142,7 @@
    <p>Shipping Spike with other canons and fanons may cause sex or heat shippers to appear. Like shipping rarity x spike, etc., and more.</p>
    <p>I'd rather avoid sex or shippers whenever I'm AFK or semi-AFK.</p>
    <p>I do not feel uncomfortable sitting with a sex or heat shipper.</p>
-  </div>
+ </div>
 </details>
 <br>
 
@@ -152,9 +152,9 @@
 <p align="center">
   <p>I played a lot of games; I kind of remembered a lot of them.</p>
   <p>Ragdoll Archers(Crazygame), Roblox, Minecraft, Blockblast, Cat & Soup(Netflix Game), Wildcraft, Storyteller(Netflix Game).</p>
-     </div>
-   </details>
-   <br> 
+   </div>
+</details>
+<br>
 
 
 
@@ -169,9 +169,9 @@
       
  <p align="center">
    <p>Dinosaurs: T-Rex, Velociraptor, Indominus Rex, Distortus Rex, and Pterodactyl. Dogs: German Shepherd, Doberman, and Husky. Animals: Crocodiles, Alligators, Snakes, and Spiders.</p>
-     </div>
-   </details>
-   <br> 
+      </div>
+</details>
+<br>
 
 
   
@@ -199,7 +199,7 @@
   <p>Soda Pop, Golden, APT, Flowers, All I want for Christmas is You, Funk Do Bounce, Meme Funk, Beeper Funk, You've got a Friend in Me, Psycho Teddy, Sweet but Psycho, Symphony, Skellies, Double Life, Wavin' Flags, Nothing New, I don't wanna talk to You, Im So Sorry, Close up, Everyone is Dumb, Bloodpop, Rewrite of Stars, TAKE A REST, TAKE A RUN, Sleep Well, Money Green, What is Logical?, Not my Problem, E.T is a alien, 3.0.0.8, Trypophobia, Digital Hallucination, Ghost, Mi mi mi, Fairytale, Happy Face, Mary on a Cross, Life goes on, GRRRLS, Dancin, Darkside, Arcade, Her, Animals, Centuries, Die Young, Devil in Disguise, Skyfall, You can't Hide, Join us for a Bite, Wellerman, Eyes all on me, What about Me, Sprunki get funky, Traitor x Frozen, Snowman(sia), Best Friends, Look what You made me Do, This is Halloween, and Traitor. </p>
  </div>
 </details>
-<br> 
+<br>
 
 
 
