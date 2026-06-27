@@ -134,12 +134,10 @@
 </details>
 <br>
 
-
    </div>
    </details>
 
  <br>
-
 
   <details>
    <summary><inst>Questions - ᴡʜʏ ɪ ᴅᴏɴ'ᴛ sʜɪᴘ sᴘɪᴋᴇ ᴡɪᴛʜ ᴏᴛʜᴇʀ ᴄᴀɴᴏɴs ᴀɴᴅ ғᴀɴᴏɴs❔</inst></summary>
@@ -151,7 +149,6 @@
  </div>
 </details>
 
-
    <details>
   <summary><inst>ɢᴀᴍᴇs ɪ ᴜsᴜᴀʟʟʏ ʟɪᴋᴇ ᴀʀᴇ...</inst></summary>
       
@@ -160,8 +157,6 @@
   <p>Ragdoll Archers(Crazygame), Roblox, Minecraft, Blockblast, Cat & Soup(Netflix Game), Wildcraft, Storyteller(Netflix Game).</p>
    </div>
 </details>
-
-
 
    </div>
    </details>
