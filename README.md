@@ -36,6 +36,8 @@
 </details>
 <br>
 
+</details>
+
 </p>
 
 <details>
