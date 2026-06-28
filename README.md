@@ -23,21 +23,21 @@
    <summary><ins>|ᴍʏsᴇʟғ|:</ins></summary>
   
 <div align="center">
- <p>Hi and Hello, my name is Spike, and I'm 23 years old; my birthday is on the 9th of November.</p>
- <p>Nicknames I usually like: Spike, Spine and Spire.</p>
- <p>⚠️Nicknames I usually hate: Spit, Spite, Spije, and Spile.
+ <p>Hi and Hello! my name is Spike, and I'm 23 years old, my birthday is on the 9th of November!.</p>
+ <p>Nicknames I usually like: Spike, Spine and Spire!.</p>
+ <p>⚠️Nicknames I usually hate: Spit, Spite, Spije, and Spile....
  <p>Might disconnect whenever im afk or semi-afk.</p>
- <p>I only speak English and Filipino—sometimes a little.</p>
+ <p>I only speak English and Filipino—sometimes a little.:^</p>
  <p>Nonshippers, Darkshippers, and Proshippers: ⚠️DO NOT SHIP SPIKE WITH CANONS AND FANONS⚠️.</p>
- <p>I avoid blocking either toxicity or harassment.</p>
- <p>Was born in the Philippines?..</p>
- <p>I usually like shipping Rarity and Spike, but in-game, I usually don't.</p>
- <p>Twilight is my friend; I always support her, and I always have her back.</p>
- <p>I will block you if you start harassing my friends or followers.</p>
- <p>I do not like seeing weird, sus, or freaky skins sitting or cuddling with me when I'm AFK or semi-AFK.</p>
- <p>Sleeping, watching, sketching, eating, listening to music, playing, and reading are all frequently AFK or semi-AFK.</p>
+ <p>I avoid blocking either toxicity or harassment...</p>
+ <p>Was born in the Philippines!</p>
+ <p>I usually like shipping Rarity and Spike, but in-game, I usually don't..</p>
+ <p>Twilight is my friend; I always support her, and I always have her back!</p>
+ <p>I will block you if you start harassing my friends or random people...</p>
+ <p>I do not like seeing weird, sus, or freaky skins sitting or cuddling with me when I'm AFK or semi-AFK...</p>
+ <p>Sleeping, watching, sketching, eating, listening to music, playing, and reading are all frequently AFK or semi-AFK!.</p>
  <p>I'm a happy or cheerful dragon who occasionally enjoys whispering or speaking clearly—well, sometimes.</p>
- <p>Tactically I'm canon. Like other canon cartoons (NOT FANON), I'm obsessed with Spike, Zym, Riyu, and other dragon shows or movies.</p>
+ <p>Tactically I'm canon. Like other canon cartoons (NOT FANON), I'm obsessed with Spike, Zym, Riyu, and other dragon shows or movies.^^</p>
  </div>
 </details>
 <br>
@@ -48,17 +48,17 @@
   <summary><ins>|ᴘᴏɴʏ ᴛᴏᴡɴ|:</ins></summary>
    
 <div align="center">
- <p>When I'm with people, I'll let them snuggle and pile on me. My Spike cosplay should not be covered or replicated. Doing that would be risky.</p>
+ <p>When I'm with people, I'll let them snuggle and pile on me. My Spike cosplay should not be covered or replicated. Doing that would be risky..</p>
  <p>I may be AFK or semi-AFK, but I may be online every year, well, sometimes.</p>
- <p>Free to W2I, there's a chance that I might see the messages.</p>
- <p>I do not want spam whispers when I'm AFK or semi-AFK.</p>
- <p>Always AFK or semi-AFK, away from keyboard.</p>
- <p>Do not try to harass or spam with whispers when I'm AFK or semi-AFK.</p>
+ <p>Free to W2I, there's a lot of chances that I might see the messages!.</p>
+ <p>I do not want spam whispers when I'm AFK or semi-AFK..</p>
+ <p>Always AFK or semi-AFK or away from keyboard.</p>
+ <p>Do not try to harass or spam with whispers when I'm AFK or semi-AFK; it's very rude..</p>
  <p>Don't try make fun of me and my friends.</p>
- <p>I avoid being bullied, spammed, and harassed.</p>
- <p>I will not respond to a spam whisper.</p>
- <p>Always active, I won't disconnect the game whenever I'm AFK or semi-AFK.</p>
- <p>I don't assume that much; I'll allow you to wear Twilight if you want my attention.</p>
+ <p>I avoid being bullied, spammed, and harassed...</p>
+ <p>I will not respond to a spam whisper..</p>
+ <p>Always active, I might disconnect the game whenever I'm AFK or semi-AFK.</p>
+ <p>I don't assume that much; PLEASE LET ME HAVE MY NAP. [DNI whoever disturbs or interrupts my nap. But whispering is fine! But not spam whispers.</p>
  </div>
 </details>
 <br>
@@ -70,10 +70,10 @@
  <p>Under 10 years old, I will not accept being friends with anyone under 12 years old.</p>
  <p>Above 18+ or 13+, I will accept it.</p>
  <p>I avoid being friend-requested by people under 12 years old.</p>
- <p>Copying me or my friends is a dangerous decision and awful action. I will block you for copying me or my friends.</p>
- <p>Tired and sleepy. (Needs some rest.)</p>
- <p>I do not like getting disturbed in my rest by spam whispering. Whispering to me when I'm sleeping is fine.</p>
- <p>If you're willing to be my friend, you have to chat calmly.</p>
+ <p>Copying / covering me or my friends is a dangerous decision and awful action. I will block you for copying me or my friends.</p>
+ <p>Tired and sleepy. (Needed time to rest.)</p>
+ <p>I do not like getting disturbed in my rest by spam whispering. Whispering to me by calmly when I'm sleeping is fine.</p>
+ <p>If you're willing to be my friend, you have to chat nicely and friendly.</p>
  <p>I do not like nonpatiences if they're willing to me to accept their friend requests.</p>
  <p>Whisper to me if you want to talk or be friends with me. I'll even ask if you're 18+ or under 12 years old.</p>
   </div>
@@ -85,13 +85,14 @@
   
 <div align="center">
    <p>Well, if you want to be friends with me, you have to talk to me or whisper a lot.</p>
-   <p>I avoid talking / whispering if under 10 years old.</p>
+   <p>I avoid talking / whispering if under 10 years old..</p>
    <p>I like to talk / whisper a lot even when I'm bored.</p>
-   <p>Stay in touch; otherwise, I cannot respond to your message.</p>
-   <p>Free to interact by whisper when I'm listening to music and drawing.</p>
+   <p>Stay in touch; otherwise, I cannot respond to your message..</p>
+   <p>Free to interact by whisper when I'm listening to music and drawing!.</p>
    <p></p>I usually like people cuddling me or sitting with me. I really don't care if I sit alone.</p>
-   <p>If you're not feeling well, not in the mood, or upset. I might whisper / respond to you.</p>
-   <p>I do not want to be friends with a Tut skins, toxic ships, etc., and more.</p>
+   <p>If you're not feeling well, not in the mood, or upset. I might whisper / respond to you!.</p>
+   <p>I do not want to be friends with a Tut skins, toxic ships, etc., and more..</p>
+   <p>It feels weird when I'm with Tut's skins.</p>
    </div>
 </details>
 <br>
