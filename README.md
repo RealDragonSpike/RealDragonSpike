@@ -11,7 +11,7 @@
 
  
   <p align="center">
- <sub>꧁༒☬𝑻𝒉𝒆 𝒖𝒏𝒅𝒆𝒓𝒍𝒊𝒏𝒆𝒅 𝒘𝒐𝒓𝒅𝒔 𝒂𝒓𝒆 𝒄𝒍𝒊𝒄𝒌𝒂𝒃𝒍𝒆:ᴅ.☬༒꧂</sub>
+ <sub>|꧁༒☬𝑻𝒉𝒆 𝒖𝒏𝒅𝒆𝒓𝒍𝒊𝒏𝒆𝒅 𝒘𝒐𝒓𝒅𝒔 𝒂𝒓𝒆 𝒄𝒍𝒊𝒄𝒌𝒂𝒃𝒍𝒆:ᴅ.☬༒꧂|</sub>
   <p align="center">
 
   </details>
@@ -20,7 +20,7 @@
  <br>
 
 <details>
-   <summary><ins>ᴍʏsᴇʟғ:</ins></summary>
+   <summary><ins>|ᴍʏsᴇʟғ|:</ins></summary>
   
 <div align="center">
  <p>Hi and Hello, my name is Spike, and I'm 23 years old; my birthday is on the 9th of November.</p>
